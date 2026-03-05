@@ -79,3 +79,14 @@ void  display()
     cout << endl;
     cout << endl;
 }
+
+int main()
+{
+    input();
+
+    bubblesortarray();
+    displa();
+
+    system("pause");
+    return 0;
+}
